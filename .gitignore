@@ -1,2 +1,3 @@
 .idea/*
 localstack/volume/*
+webui/open-webui/*
